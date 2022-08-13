@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+whatsapp_bot/__init__.py
+whatsapp_bot/__main__.py
+whatsapp_bot/bot.py
+whatsapp_bot.egg-info/PKG-INFO
+whatsapp_bot.egg-info/SOURCES.txt
+whatsapp_bot.egg-info/dependency_links.txt
+whatsapp_bot.egg-info/requires.txt
+whatsapp_bot.egg-info/top_level.txt
+whatsapp_bot/resources/start.png
